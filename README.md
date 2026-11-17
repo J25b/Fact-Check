@@ -79,8 +79,8 @@ Facts aims to encourage users to question, examine, and verify the information t
 ## 🔗 Project Links
 
 - **Live Application:** https://facts.bolt.host
-- **GitHub Repository:** https://github.com/Jay1725/Facts-AI
-- **Demo Video:** Add your demo video link here, if available.
+- **GitHub Repository:** https://github.com/J25b/Fact-Check
+- **Demo Video:** https://drive.google.com/file/d/1_jlGUrnALhbrCEvzjFnd0vVzv5VEDNSe/view?usp=sharing
 
 ## 👨‍💻 Project Information
 
